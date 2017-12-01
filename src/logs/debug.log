@@ -1,0 +1,100 @@
+
+
+
+info [Wed Nov 29 2017 16:26:59 GMT+0700 (+07)]  undefined
+
+
+info [Wed Nov 29 2017 16:31:45 GMT+0700 (+07)]  undefined
+
+
+
+
+
+
+
+info [Wed Nov 29 2017 16:33:30 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
+
+
+
+info [Wed Nov 29 2017 16:37:28 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
+
+info [Wed Nov 29 2017 16:38:08 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
+info [Wed Nov 29 2017 16:39:20 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
+
+info [Wed Nov 29 2017 16:40:01 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
+info [Wed Nov 29 2017 16:40:22 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
+info [Wed Nov 29 2017 16:40:32 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
+info [Wed Nov 29 2017 16:40:52 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
+info [Wed Nov 29 2017 16:41:15 GMT+0700 (+07)]  RowDataPacket {
+  id: 1,
+  shop: 'deveioshop.myshopify.com',
+  api_key: 'c18b9d186000331f5d35965df546f830',
+  secret_key: '813efa13592e851be126828dfae1d65c',
+  access_token: 'e08701fe849677894982f4c15d98e6b3',
+  created_at: null,
+  updated_at: null }
+
